@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(42, 103, 153);
+}
+h2{
+    text-align: center;
+}
+#c1{
+    border: 2px solid black;
+    border-radius: 25px;
+    margin: auto;
+    width: 1050px;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.item{
+    font-family: cursive;
+    background-color: blue;
+    border: 2px solid white;
+    border-radius: 10px;
+    height: 100px;
+    width: 100px;
+    color: white;
+    padding: 5px;
+    margin: 10px;
+    text-align: center;
+}
